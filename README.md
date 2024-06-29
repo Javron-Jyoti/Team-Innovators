@@ -1,4 +1,5 @@
 #Image and Video Dehazing with Object Detection
+
 This project focuses on applying dehazing techniques to images and videos to improve visibility under various environmental conditions such as fog, rain, darkness, heavy sunlight, and smoke. Following dehazing, the YOLOv8m model is used to detect objects in the processed images and videos.
 
 ##Table of Contents
