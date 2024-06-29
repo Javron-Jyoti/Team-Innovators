@@ -1,0 +1,6 @@
+train: C:\yolov8_mines\Train
+val: C:\yolov8_mines\val
+
+nc : 4
+
+names: ["signs","human","machine","vehicle"]
